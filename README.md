@@ -1,6 +1,6 @@
 # Welcome to my Profile
 
-I'm an Mobile Application Developer and ❤️ working with the following tools
+I'm a Mobile Application Developer and ❤️ working with the following tools
 
 ## Development
 
